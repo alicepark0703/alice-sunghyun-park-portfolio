@@ -26,7 +26,7 @@ title: Home
 
 ## About
 
-I’m a Cornell student currently focusing on **data science and machine learning**, with a background that started in engineering and experimental research. A lot of my work sits at the intersection of **data, physics, and computation**, where the goal is less about applying models blindly and more about understanding what the data is actually saying.
+I am a Cornell student currently focusing on **data science and machine learning**, with a background that started in engineering and experimental research. A lot of my work sits at the intersection of **data, physics, and computation**, where the goal is less about applying models blindly and more about understanding what the data is actually saying.
 
 I tend to think in terms of:
 - how a dataset is generated
