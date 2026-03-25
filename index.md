@@ -10,9 +10,7 @@ title: Home
     <p class="eyebrow">Data Science · Machine Learning · Scientific Computing</p>
     <h1><span class="gradient">Alice Park</span></h1>
     <p class="lead">
-      I work on data-driven problems that come from physical systems, signals, and experiments.
-      I’m especially interested in how raw data becomes something interpretable through feature extraction,
-      modeling, and careful analysis.
+      I work on data-driven problems from physical systems and experiments, focusing on extracting structure from raw data through feature engineering, modeling, and analysis.
     </p>
 
     <div class="button-row">
