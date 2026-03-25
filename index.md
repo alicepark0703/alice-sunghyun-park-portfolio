@@ -11,7 +11,7 @@ title: Home
     <h1>Hello, I am <span class="gradient">Alice</span>.</h1>
     <p class="lead">
       I work on data-driven problems that come from physical systems, signals, and experiments.
-      I’m especially interested in how raw data becomes something interpretable — through feature extraction,
+      I’m especially interested in how raw data becomes something interpretable through feature extraction,
       modeling, and careful analysis.
     </p>
 
