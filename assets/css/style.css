@@ -180,7 +180,7 @@ hr {
 }
 
 img {
-  border-radius: 18px;
+  max-width: 100%;
 }
 
 ul {
