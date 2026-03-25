@@ -57,7 +57,7 @@ Processed high-speed flow visualization data in a multiphase flow research setti
 
 ## Event-Based Imaging and Depth Encoding
 
-<img src="{{'event-camera-project.png' | relative_url }}" alt="Event camera project" style="width: 340px; max-width: 100%; height: auto; display: block; margin: 1rem auto;">
+<img src="{{'/assets/event-camera-project.png' | relative_url }}" alt="Event camera project" style="width: 340px; max-width: 100%; height: auto; display: block; margin: 1rem auto;">
 
 **Focus:** computational imaging, sparse data representation, ML-oriented analysis
 
