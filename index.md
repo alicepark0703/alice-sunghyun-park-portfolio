@@ -8,7 +8,7 @@ title: Home
 <div class="hero">
   <div class="hero-card">
     <p class="eyebrow">Data Science · Machine Learning · Scientific Computing</p>
-    <h1>Hello, I am <span class="gradient">Alice</span>.</h1>
+    <h1><span class="gradient">Alice Park</span></h1>
     <p class="lead">
       I work on data-driven problems that come from physical systems, signals, and experiments.
       I’m especially interested in how raw data becomes something interpretable through feature extraction,
