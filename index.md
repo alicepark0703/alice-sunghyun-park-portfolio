@@ -71,13 +71,13 @@ I tend to think in terms of:
 
 ## Research and Contributions
 
-### Cornell ASTRA Lab
+### ASTRA Lab, Cornell University
 Worked on post-processing for electrospray plume simulations by developing Python-based analysis pipelines to process particle trajectory data into density maps, centerline shifts, and comparative visualizations across parameter sweeps, enabling clearer interpretation of plume behavior and quantitative comparison of simulation conditions.
 
-### Seoul National University — MFFV Lab
+### MFFV Lab, Seoul National University
 Worked with high-speed flow visualization data by developing analysis workflows to extract quantitative information from complex experimental recordings and organize it into structured datasets, enabling consistent measurement and interpretation of flow behavior.
 
-### Computational Imaging / Event-Based Vision
+### Computational Imaging Lab, Cornell University
 Explored event-based camera data by studying how sparse, asynchronous signals can be represented for downstream tasks such as motion and depth estimation, focusing on feature representation strategies that make the data usable for analysis and learning.
 
 ### Cornell Hyperloop
