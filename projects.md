@@ -31,7 +31,7 @@ This project was not only about model accuracy, but also about understanding how
 
 ## Electrospray Plume Analysis
 
-![Electrospray plume analysis]({{ '/assets/astra-plume-analysis.png' | relative_url }})
+<img src="{{ '/assets/astra-plume-analysis.png' | relative_url }}" alt="Electrospray plume analysis" style="width: 420px; max-width: 100%; height: auto; display: block; margin: 1rem auto;">
 
 **Focus:** scientific data processing, simulation analysis, visualization
 
@@ -47,7 +47,7 @@ Developed Python post-processing workflows for large-scale particle simulation o
 
 ## High-Speed Flow Visualization at SNU
 
-![Flow visualization]({{ '/assets/mffv-flow-visualization.jpg' | relative_url }})
+<img src="{{ '/assets/mffv-flow-visualization.jpg' | relative_url }}" alt="Flow visualization" style="width: 420px; max-width: 100%; height: auto; display: block; margin: 1rem auto;">
 
 **Focus:** experimental data processing, visualization, quantitative analysis
 
@@ -57,7 +57,7 @@ Processed high-speed flow visualization data in a multiphase flow research setti
 
 ## Event-Based Imaging and Depth Encoding
 
-![Event camera project]({{ '/assets/event-camera-project.png' | relative_url }})
+<img src="{{'event-camera-project.png' | relative_url }}" alt="Event camera project" style="width: 420px; max-width: 100%; height: auto; display: block; margin: 1rem auto;">
 
 **Focus:** computational imaging, sparse data representation, ML-oriented analysis
 
