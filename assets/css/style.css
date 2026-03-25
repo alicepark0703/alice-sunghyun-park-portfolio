@@ -183,6 +183,26 @@ img {
   max-width: 100%;
 }
 
+.image-row {
+  display: flex;
+  gap: 12px;
+}
+
+.image-row img {
+  width: 50%;
+  height: 220px; /* adjust if needed */
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+.image-row img {
+  transition: transform 0.2s ease;
+}
+
+.image-row img:hover {
+  transform: scale(1.03);
+}
+
 ul {
   padding-left: 1.2rem;
 }
