@@ -10,8 +10,8 @@ title: Projects
 ## Cello Composer Classification
 
 <div class="image-row">
-  <img src="{{'/assets/confusion-matrix.jpg'| relative_url}}" alt="Confusion Matrix">
-  <img src="{{'/assets/data-analysis.jpg' | relative_url }}" alt="Data Analysis">
+  <img src="{{ '/assets/confusion-matrix.png' | relative_url }}" alt="Confusion Matrix">
+  <img src="{{ '/assets/data-analysis.png' | relative_url }}" alt="Data Analysis">
 </div>
 
 **Focus:** audio machine learning, feature engineering, classification, evaluation

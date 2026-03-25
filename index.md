@@ -48,7 +48,10 @@ I tend to think in terms of:
 ## Featured Project
 
 <div class="project-card">
-  <img src="{{ '/assets/cello-confusion-matrix.png' | relative_url }}" alt="Cello composer classification confusion matrix">
+  <div class="image-row">
+  <img src="{{ '/assets/confusion-matrix.png' | relative_url }}" alt="Confusion Matrix">
+  <img src="{{ '/assets/data-analysis.png' | relative_url }}" alt="Data Analysis">
+</div>
   <div class="project-body">
     <p class="project-type">Machine Learning Project</p>
     <h3>Cello Composer Classification</h3>
