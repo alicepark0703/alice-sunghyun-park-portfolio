@@ -17,8 +17,8 @@ title: Home
 
     <div class="button-row">
       <a class="btn btn-primary" href="{{ '/resume.pdf' | relative_url }}" target="_blank">Resume</a>
-      <a class="btn btn-secondary" href="https://github.com/your-username" target="_blank">GitHub</a>
-      <a class="btn btn-secondary" href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a>
+      <a class="btn btn-secondary" href="https://github.com/alicepark0703" target="_blank">GitHub</a>
+      <a class="btn btn-secondary" href="https://www.linkedin.com/in/alice-sunghyun-park/" target="_blank">LinkedIn</a>
       <a class="btn btn-secondary" href="{{ '/projects.html' | relative_url }}">Projects</a>
     </div>
   </div>
