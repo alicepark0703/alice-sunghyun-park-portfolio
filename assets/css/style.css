@@ -130,11 +130,10 @@ h1 {
 }
 
 .project-card img {
-  max-width: 600px;   /* controls actual size */
   width: 100%;
-  height: auto;
+  height: 320px;          /* controls size */
+  object-fit: cover;      /* makes it fill nicely */
   display: block;
-  margin: 1.5rem auto;  /* centers it nicely */
 }
 
 .project-body {
