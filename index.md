@@ -24,23 +24,24 @@ title: Home
 
 ## About
 
-I am a Cornell'28 student studying Computer Science in Duffield College of Engineering currently focusing on **data science and machine learning**, with a background that started in engineering and experimental research. A lot of my work sits at the intersection of **data, physics, and computation**, where the goal is less about applying models blindly and more about understanding what the data is actually saying.
+I am a Computer Science student in the College of Engineering at Cornell University (Class of 2028), with a focus on **data science and machine learning** and a background in engineering and experimental research. Much of my work lies at the intersection of **data, physics, and computation**, where the emphasis is not just on applying models, but on understanding what the data actually represents.
 
-I tend to think in terms of:
+I tend to approach problems by asking:
+
 - how a dataset is generated
-- what structure it actually contains
-- and what a model is really learning from it
+- what structure it truly contains
+- and what a model is actually learning from it
 
 ### What I focus on
-- Feature extraction, exploration, and analysis (especially from non-standard data like audio or simulations)
-- Building end-to-end pipelines from raw data → features → model → evaluation
-- Understanding model behavior, not just performance
-- Visualization as a way to comprehend and reason about data
+- Feature extraction, exploration, and analysis—particularly from non-standard data such as audio, simulations, and experimental measurements
+- Building end-to-end pipelines from raw data → features → modeling → evaluation
+- Interpreting model behavior, not just optimizing performance
+- Using visualization as a tool for understanding and reasoning about data
 
 ### Tools
-- **Programming:** Python, C/C++, Java, OCaml, MATLAB  
-- **Data Science / ML:** NumPy, pandas, scikit-learn, PyTorch, feature engineering, model evaluation  
-- **Visualization:** matplotlib, seaborn  
+- **Programming:** Python, C/C++,SQL, Java, OCaml, MATLAB  
+- **Data Science / ML:** NumPy, Pandas, DuckDB, scikit-learn, PyTorch, feature engineering, model evaluation  
+- **Visualization:** Matplotlib, Seaborn  
 - **Data & Signal Processing:** audio feature extraction (MFCC, spectral features, RMS, chroma), scientific post-processing pipelines  
 - **Workflow:** Jupyter notebooks, Git/GitHub, VS Code  
 - **Other:** FFmpeg (audio conversion), working with structured + unstructured datasets
@@ -49,20 +50,19 @@ I tend to think in terms of:
 
 <div class="project-card">
   <div class="image-row">
-  <img src="{{ '/assets/confusion-matrix.png' | relative_url }}" alt="Confusion Matrix">
-  <img src="{{ '/assets/data-analysis.png' | relative_url }}" alt="Data Analysis">
-</div>
+    <img src="{{ '/assets/confusion-matrix.png' | relative_url }}" alt="Confusion Matrix">
+    <img src="{{ '/assets/data-analysis.png' | relative_url }}" alt="Data Analysis">
+  </div>
   <div class="project-body">
     <p class="project-type">Machine Learning Project</p>
     <h3>Cello Composer Classification</h3>
     <p>
-      I built an end-to-end pipeline to classify short cello clips by composer (Bach, Beethoven, Schumann)
-      using extracted audio features and a neural network model.
+      Built an end-to-end pipeline to classify short cello clips by composer (Bach, Beethoven, Schumann)
+      using engineered audio features and a neural network classifier.
     </p>
     <p>
-      More than just training a model, this project focused on understanding feature behavior:
-      looking at distributions, correlations, and how overlap between classes leads directly to
-      patterns in the confusion matrix.
+      Beyond model training, the focus was on understanding feature behavior—analyzing distributions,
+      correlations, and how class overlap directly manifests in confusion patterns.
     </p>
     <p>
       <a href="https://github.com/alicepark0703/cello-repertoire-classifier" target="_blank">GitHub ↗</a>
@@ -73,13 +73,13 @@ I tend to think in terms of:
 ## Research and Contributions
 
 ### ASTRA Lab, Cornell University
-Worked on post-processing for electrospray plume simulations by developing Python-based analysis pipelines to process particle trajectory data into density maps, centerline shifts, and comparative visualizations across parameter sweeps, enabling clearer interpretation of plume behavior and quantitative comparison of simulation conditions.
+Developed Python-based post-processing pipelines for electrospray plume simulations, transforming particle trajectory data into density maps, centerline shifts, and comparative visualizations across parameter sweeps. Enabled quantitative analysis of plume behavior and clearer interpretation of how geometric variations influence downstream structure.
 
 ### MFFV Lab, Seoul National University
-Worked with high-speed flow visualization data by developing analysis workflows to extract quantitative information from complex experimental recordings and organize it into structured datasets, enabling consistent measurement and interpretation of flow behavior.
+Built analysis workflows for high-speed flow visualization data, converting complex experimental recordings into structured datasets through image-processing-based feature extraction. Enabled consistent measurement of flow dynamics and more reliable interpretation across experimental conditions.
 
 ### Computational Imaging Lab, Cornell University
-Explored event-based camera data by studying how sparse, asynchronous signals can be represented for downstream tasks such as motion and depth estimation, focusing on feature representation strategies that make the data usable for analysis and learning.
+Analyzed event-based camera data by studying how sparse, asynchronous signals can be transformed into structured representations for downstream tasks such as motion and depth estimation. Focused on representation strategies that preserve meaningful signal while remaining suitable for analysis and learning.
 
 ### Cornell Hyperloop
 Worked on modeling and analysis of a linear induction motor system by developing computational models to evaluate how design parameters influence performance, enabling quantitative assessment of design decisions and their impact on system behavior.
