@@ -217,3 +217,12 @@ ul {
     align-items: flex-start;
   }
 }
+
+.callout{
+  background-color: #f5f7fb;
+  border-left: 4px solid #4a6cf7;
+  padding: 0.8rem 1rem;
+  margin: 1rem 0;
+  font-style: italic;
+  border-radius: 6px;
+}
