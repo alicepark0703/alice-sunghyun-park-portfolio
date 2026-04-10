@@ -122,7 +122,7 @@ Developed image-processing pipelines to convert high-speed (≈2,000 fps) multip
 This project demonstrates a core data science skill that’s often overlooked:
 
 <div class="callout">
-    turning <strong>unstructured, noisy data → reliable, quantitative signals
+    turning <strong>unstructured, noisy data → reliable, quantitative signals</strong>
 </div>
 
 It reflects real-world ML/DS challenges:
