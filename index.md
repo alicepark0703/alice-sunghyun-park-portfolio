@@ -11,7 +11,7 @@ title: Home
     <h1><span class="gradient">Alice Park</span></h1>
     <p class="lead">
       I work on data-driven problems from physical systems and experiments, with an emphasis on extracting meaningful structure from raw data through feature engineering, representation, and analysis.
-
+    </p>
     <div class="button-row">
       <a class="btn btn-primary" href="{{ '/resume.pdf' | relative_url }}" target="_blank">Resume</a>
       <a class="btn btn-secondary" href="https://github.com/alicepark0703" target="_blank">GitHub</a>
