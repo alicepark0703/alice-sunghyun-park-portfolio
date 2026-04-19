@@ -32,17 +32,19 @@ I tend to approach problems by asking:
 - and what a model is actually learning from it
 
 ### What I focus on
+
 - Feature extraction, exploration, and analysis—particularly from non-standard data such as audio, simulations, and experimental measurements
 - Building end-to-end pipelines from raw data → features → modeling → evaluation
 - Interpreting model behavior, not just optimizing performance
 - Using visualization as a tool for understanding and reasoning about data
 
 ### Tools
-- **Programming:** Python, C/C++,SQL, Java, OCaml, MATLAB  
-- **Data Science / ML:** NumPy, Pandas, DuckDB, scikit-learn, PyTorch, feature engineering, model evaluation  
-- **Visualization:** Matplotlib, Seaborn  
-- **Data & Signal Processing:** audio feature extraction (MFCC, spectral features, RMS, chroma), scientific post-processing pipelines  
-- **Workflow:** Jupyter notebooks, Git/GitHub, VS Code  
+
+- **Programming:** Python, C++, SQL, Java, Javascript, CSS, OCaml, MATLAB
+- **Data Science / ML:** NumPy, Pandas, DuckDB, scikit-learn, PyTorch, feature engineering, model evaluation, LangChain, VectorDBs, RAG
+- **Visualization:** Matplotlib, Seaborn
+- **Data & Signal Processing:** audio feature extraction (MFCC, spectral features, RMS, chroma), scientific post-processing pipelines
+- **Workflow:** Jupyter notebooks, Git/GitHub, VS Code
 - **Other:** FFmpeg (audio conversion), working with structured + unstructured datasets
 
 ## Featured Project
@@ -72,15 +74,19 @@ I tend to approach problems by asking:
 ## Research and Contributions
 
 ### ASTRA Lab, Cornell University
+
 Developed Python-based post-processing pipelines for electrospray plume simulations, transforming particle trajectory data into density maps, centerline shifts, and comparative visualizations across parameter sweeps. Enabled quantitative analysis of plume behavior and clearer interpretation of how geometric variations influence downstream structure.
 
 ### MFFV Lab, Seoul National University
+
 Built analysis workflows for high-speed flow visualization data, converting complex experimental recordings into structured datasets through image-processing-based feature extraction. Enabled consistent measurement of flow dynamics and more reliable interpretation across experimental conditions.
 
 ### Computational Imaging Lab, Cornell University
+
 Analyzed event-based camera data by studying how sparse, asynchronous signals can be transformed into structured representations for downstream tasks such as motion and depth estimation. Focused on representation strategies that preserve meaningful signal while remaining suitable for analysis and learning.
 
 ### Cornell Hyperloop
+
 Worked on modeling and analysis of a linear induction motor system by developing computational models to evaluate how design parameters influence performance, enabling quantitative assessment of design decisions and their impact on system behavior.
 
 ## Contact
