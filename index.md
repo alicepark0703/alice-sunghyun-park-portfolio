@@ -40,7 +40,7 @@ I tend to approach problems by asking:
 
 ### Tools
 
-- **Programming:** Python, C++, SQL, Java, Javascript, CSS, OCaml, MATLAB
+- **Programming:** Python, C++, SQL, Java, JavaScript, CSS, OCaml, MATLAB
 - **Data Science / ML:** NumPy, Pandas, DuckDB, scikit-learn, PyTorch, feature engineering, model evaluation, LangChain, VectorDBs, RAG
 - **Visualization:** Matplotlib, Seaborn
 - **Data & Signal Processing:** audio feature extraction (MFCC, spectral features, RMS, chroma), scientific post-processing pipelines
