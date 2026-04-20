@@ -51,8 +51,8 @@ I tend to approach problems by asking:
 
 <div class="project-card">
   <div class="image-row">
-    <img src="{{ '/assets/images/projects/benefits/benefits-home.png' | relative_url }}" alt="Benefits Navigator Homepage">
-    <img src="{{ '/assets/images/projects/benefits/benefits-aiagent.png' | relative_url }}" alt="Benefits Navigator AI Agent">
+    <img src="{{ '/assets/benefits-home.png' | relative_url }}" alt="Benefits Navigator Homepage">
+    <img src="{{ '/assets/benefits-aiagent.png' | relative_url }}" alt="Benefits Navigator AI Agent">
   </div>
   <div class="project-body">
     <p class="project-type">Hackathon Project · Full Stack Web App</p>
