@@ -51,22 +51,23 @@ I tend to approach problems by asking:
 
 <div class="project-card">
   <div class="image-row">
-    <img src="{{ '/assets/confusion-matrix.png' | relative_url }}" alt="Confusion Matrix">
-    <img src="{{ '/assets/data-analysis.png' | relative_url }}" alt="Data Analysis">
+    <img src="{{ '/assets/images/projects/benefits/benefits-home.png' | relative_url }}" alt="Benefits Navigator Homepage">
+    <img src="{{ '/assets/images/projects/benefits/benefits-aiagent.png' | relative_url }}" alt="Benefits Navigator AI Agent">
   </div>
   <div class="project-body">
-    <p class="project-type">Machine Learning Project</p>
-    <h3>Cello Composer Classification</h3>
+    <p class="project-type">Hackathon Project · Full Stack Web App</p>
+    <h3>Benefits Navigator</h3>
     <p>
-      Built an end-to-end pipeline to classify short cello clips by composer (Bach, Beethoven, Schumann)
-      using engineered audio features and a neural network classifier.
+      Developed a full-stack web application during a 24-hour hackathon to help users navigate social welfare programs such as SNAP, Medicaid, and HEAP.
     </p>
     <p>
-      Beyond model training, the focus was on understanding feature behavior—analyzing distributions,
-      correlations, and how class overlap directly manifests in confusion patterns.
+      The platform matches users to programs they are likely eligible for using rule-based logic grounded in official guidelines, answers common eligibility questions using program data and user-specific context, and helps users locate nearby assistance offices for in-person support.
     </p>
     <p>
-      <a href="https://github.com/alicepark0703/cello-repertoire-classifier" target="_blank">GitHub ↗</a>
+      Built with a React frontend and Python backend, with an emphasis on accessibility, clarity, and real-world social impact.
+    </p>
+    <p>
+      <a href="https://github.com/alicepark0703/benefits-navigator" target="_blank">GitHub ↗</a>
     </p>
   </div>
 </div>
