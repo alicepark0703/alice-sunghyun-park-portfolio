@@ -10,8 +10,8 @@ title: Projects
 ## Benefits Navigator
 
 <div class="image-row">
-<img src="{{ '/assets/images/projects/benefits/benefits-login.png' | relative_url }}" alt="Benefits Navigator Login">
-<img src="{{ '/assets/images/projects/benefits/benefits-aiagent.png' | relative_url }}" alt="Benefits Navigator AI Agent">
+<img src="{{ '/assets/benefits-login.png' | relative_url }}" alt="Benefits Navigator Login">
+<img src="{{ '/assets/benefits-aiagent.png' | relative_url }}" alt="Benefits Navigator AI Agent">
 </div>
 
 **Focus:** full-stack development, rule-based systems, retrieval-augmented generation, machine learning, social impact
